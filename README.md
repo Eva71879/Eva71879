@@ -1,16 +1,19 @@
-### Hi there 👋
+# Привет, я Лена👋
+## Фронтендер уровня джун, из России
+### Работаю на стеке технологий HTML, CSS, JS
+### 🔭Сейчас работаю над сайтом с применением PHP
+### 🌱 А еще изучаю React
+### Связаться со мной можно тут:
+* 📫 eva71879@gmail.com
+* 💬 Telegram @Chooky1234
 
-<!--
-**Eva71879/Eva71879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi I'm Lena👋
+## Junior front-end developer from Russia 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I work in technology stack: HTML/CSS, JS
+### 🔭 I'm currently working on website with PHP
+### 🌱 I'm currently learning React
+### Feel free to contact me:
+📫 eva71879@gmail.com
+💬 Telegram @Chooky1234
