@@ -1,10 +1,7 @@
 # Привет, я Лена👋
 ## Фронтендер уровня джун, из России
 ### Работаю на стеке технологий
-<img src="assets/html.svg" alt="HTML" width="100px"/>
-<img src="assets/css.svg" alt="CSS" width="100px"/>
-<img src="assets/js.svg" alt="JS" width="100px"/>
-<img src="assets/react.svg" alt="HTML" width="100px"/>
+<p><img src="assets/html.svg" alt="HTML" width="100px"/><img src="assets/css.svg" alt="CSS" width="100px"/><img src="assets/js.svg" alt="JS" width="100px"/><img src="assets/react.svg" alt="HTML" width="100px"/></p>
 
 ### 🔭Сейчас работаю над сайтом с применением PHP
 ### 🌱 А еще изучаю React
