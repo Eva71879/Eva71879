@@ -5,7 +5,8 @@
 
 ### Связаться со мной можно тут:
 * 📫 eva71879@gmail.com
-* 💬 Telegram @Chooky1234
+* 💬 Telegram <a href="https://t.me/Chooky1234">@Chooky1234</a>
+ @Chooky1234
 
 
 # Hi, I'm Lena👋
