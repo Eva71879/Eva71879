@@ -7,12 +7,13 @@
   <img src="assets/html.svg" alt="HTML" width="100px"/>
   <img src="assets/css.svg" alt="CSS" width="100px"/>
   <img src="assets/js.svg" alt="JS" width="100px"/>
-  <img src="assets/react.svg" alt="React" width="100px"/>
+  <img src="assets/react_.svg" alt="React" width="100px"/>
 </p>
 
 ### Сейчас я изучаю:
 <p>
   <img src="assets/php.svg" alt="php" width="100px"/>
+  <img src="assets/wordpress.svg" alt="php" width="100px"/>
 </p>
 
 ### Связаться со мной можно тут:
