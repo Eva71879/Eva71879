@@ -35,6 +35,7 @@
 ### At the moment I'm studying:
 <p>
   <img src="assets/php.svg" alt="php" width="100px"/>
+  <img src="assets/wordpress.svg" alt="php" width="100px"/>
 </p>
 
 ### Feel free to contact me:
